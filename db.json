@@ -13,7 +13,7 @@
   "id":1,
   "Name": "herve",
   "Age" : 62,
-  "departement": "78",
+  "Departement": "78",
   "City": "Le Chesnay",
   "Country": "France",
   "Gender": "Male"
@@ -22,7 +22,7 @@
   "id":2,
   "Name": "Renée",
   "Age" : 62,
-  "departement": "75",
+  "Departement": "75",
   "City": "Le Chesnay",
   "Country": "France",
   "Gender": "Female"
@@ -31,7 +31,7 @@
   "id":3,
   "Name": "John",
   "Age" : 24,
-  "departement": "",
+  "Departement": "",
   "City": "New York",
   "Country": "USA",
   "Gender": "Male"
