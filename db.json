@@ -19,7 +19,7 @@
   "Gender": "Male"
   },
   {
-  "id":2
+  "id":2,
   "Name": "Renée",
   "Age" : 62,
   "departement": "75",
@@ -28,7 +28,7 @@
   "Gender": "Female"
   },
   {
-   "id":3
+  "id":3,
   "Name": "John",
   "Age" : 24,
   "departement": "",
