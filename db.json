@@ -10,7 +10,7 @@
   },
   "employees" :[
   {
-  "Name: "herve",
+  "Name": "herve",
   "Age" : 62,
   "departement": "78",
   "City": "Le Chesnay",
@@ -18,7 +18,7 @@
   "Gender": "Male"
   },
   {
-  "Name: "Renée",
+  "Name": "Renée",
   "Age" : 62,
   "departement": "75",
   "City": "Le Chesnay",
@@ -26,7 +26,7 @@
   "Gender": "Female"
   },
   {
-  "Name: "John",
+  "Name": "John",
   "Age" : 24,
   "departement": "",
   "City": "New York",
