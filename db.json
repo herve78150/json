@@ -8,5 +8,31 @@
   "profile": {
     "name": "typicode"
   },
-  "employees" :[]
+  "employees" :[
+  {
+  "Name": "herve",
+  "Age" : 62,
+  "departement": "78",
+  "City": "Le Chesnay",
+  "Country": "France",
+  "Gender": "Male"
+  },
+  {
+  "Name": "Renée",
+  "Age" : 62,
+  "departement": "75",
+  "City": "Le Chesnay",
+  "Country": "France",
+  "Gender": "Female"
+  },
+  {
+  "Name": "John",
+  "Age" : 24,
+  "departement": "",
+  "City": "New York",
+  "Country": "USA",
+  "Gender": "Male"
+  }
+]
+  
 }
